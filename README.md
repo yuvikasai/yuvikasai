@@ -1,5 +1,3 @@
-![Loading..](https://raw.githubusercontent.com/yuvikasai/yuvikasai/main/header.jfif)
-
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
 
 Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. Here, you'll find a collection of my projects and contributions.
@@ -35,3 +33,5 @@ Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. H
 - [LinkedIn](https://www.linkedin.com/in/yuvikasai/)
 
 Thanks for stopping by!
+
+![Loading..](https://raw.githubusercontent.com/yuvikasai/yuvikasai/main/header.jfif)
