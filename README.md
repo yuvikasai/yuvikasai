@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. H
 
 ## About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor;Love+problem+solving" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0e75b6&size=24&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+things;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 - 🎓 Currently learning Java and DSA 
