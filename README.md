@@ -1,11 +1,11 @@
-# Hi there, I'm Yuvika 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
 
-Welcome to my GitHub profile! I'm Yuvika, and I've just starting my coding journey. Here, you’ll find the projects I’m working on as I learn and grow in the world of programming.
+Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. Here, you'll find a collection of my projects and contributions.
 
 ## About Me
 
-- 🎓 Currently learning Java and DSA through 
-- 🌟 I’m passionate about app and game development
+- 🎓 Currently learning Java and DSA 
+- 🌟 I’m passionate about web and game development
 - 🛠️ I’m working on simple projects to practice and improve my skills
 - 🎨 I enjoy contributing to open source projects
 
