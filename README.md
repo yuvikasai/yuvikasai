@@ -1,7 +1,3 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=yuvikasai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
 
 Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. Here, you'll find a collection of my projects and contributions.
@@ -37,3 +33,5 @@ Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. H
 - [LinkedIn](https://www.linkedin.com/in/yuvikasai/)
 
 Thanks for stopping by!
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
