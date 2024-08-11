@@ -1,5 +1,9 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=thevijayshankersharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
 Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. Here, you'll find a collection of my projects and contributions.
 
 ## About Me
