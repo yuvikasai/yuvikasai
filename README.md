@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. H
 - Building a personal website to showcase my projects and skills
 - Learning more about HTML, CSS, and JavaScript to improve my web development skills
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
