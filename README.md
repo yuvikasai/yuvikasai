@@ -1,9 +1,10 @@
 ![Loading..](https://raw.githubusercontent.com/yuvikasai/yuvikasai/main/header.jfif)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="margin: 0;">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=yuvikasai&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+</p>
+
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Yuvika</h1>
 
 Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. Here, you'll find a collection of my projects and contributions.
 
