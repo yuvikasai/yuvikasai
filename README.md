@@ -34,9 +34,6 @@ Welcome to my GitHub profile! I'm Yuvika, a student with a passion for coding. H
   <img src="https://github.com/yuvikasai/yuvikasai/blob/main/5.png" width="100px" height="100px" />
 </div>
 
-## Hacktoberfest 2024
-[![An image of @yuvikasai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yuvikasai)](https://holopin.io/@yuvikasai)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yuvikasai/)
